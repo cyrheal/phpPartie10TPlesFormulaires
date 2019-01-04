@@ -1,0 +1,31 @@
+body{
+    background-color: lightblue;
+}
+#header {
+    background-color: lightblue;  
+    border: 5px solid red;
+}
+
+h3{
+    text-align: center;
+}
+.reponse{
+    border: 5px solid green;
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+.color{
+    color : red;
+    font-size : 30px;
+}
+.border{
+    background-color: black;
+}
